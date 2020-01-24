@@ -13,7 +13,7 @@
     <h2>Cadastro</h2>
     <form class="" action="cadastro.php" method="post">
       <label>
-        Nome: <input type="text" name="nome" value="">
+        Email: <input type="text" name="email" value="">
         Senha: <input type="password" name="senha" value="">
         <input type="submit" name="" value="Enviar">
       </label>

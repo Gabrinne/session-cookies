@@ -1,13 +1,3 @@
-<?php
-  
-  // [EXTRA] Escreva um código logo abaixo desse comentário que verifique se existe um usuário logado, 
-  // caso não exista, ele redireciona para a página de login.
-
-  if ($_POST) {
-    //Apos fazer o logout, redirecione o usuário para a página de login
-  }
-
- ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
